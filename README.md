@@ -1,4 +1,4 @@
-# Sox2+ cells 
+# LIMMA-Microarray Pipeline for Sox2 Cell Comparison
 Transcriptomic analysis of Sox2+ vs Sox2- cells obtained from primary Sox2-eGFP mouse tumors.
 
 1. Data was obtained from : "Quiescent Sox2+ Cells Drive Hierarchical Growth and Relapse in Sonic Hedgehog Subgroup Medulloblastoma": https://www.sciencedirect.com/science/article/pii/S1535610814002207?via%3Dihub#fig3.
